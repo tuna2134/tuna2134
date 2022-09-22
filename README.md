@@ -4,6 +4,8 @@
 
 Hi i'm tuna2134 and i am student.📚
 
+I'm learning rust. ✏
+
 I can do python and typescript.✨
 
 I love shikimori.❤️
