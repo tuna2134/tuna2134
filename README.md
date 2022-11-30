@@ -12,6 +12,12 @@ I love Shikimori and Chisato.❤️
 
 My favorite animation is "Lycoris Recoil" and "Shikimori's Not Just a Cutie".💿
 
+## My work
+
+- https://pages.tuna2134.jp/webhook-and-embed/
+
+- https://tuna2134.jp/
+
 ## Organization
 
 * https://github.com/mc-fdc-dev
