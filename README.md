@@ -14,9 +14,9 @@ My favorite animation is "Lycoris Recoil" and "Shikimori's Not Just a Cutie".ðŸ’
 
 ## My work
 
-- https://pages.tuna2134.jp/webhook-and-embed/
+- [webhook-and-embed](https://pages.tuna2134.jp/webhook-and-embed/)
 
-- https://tuna2134.jp/
+- [My Page](https://tuna2134.jp/)
 
 ## Organization
 
