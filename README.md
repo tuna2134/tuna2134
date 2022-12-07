@@ -18,6 +18,8 @@ My favorite animation is "Lycoris Recoil" and "Shikimori's Not Just a Cutie".ðŸ’
 
 - [My Page](https://tuna2134.jp/)
 
+- [ShortenURL](https://shor.f5.si/92q460)
+
 ## Organization
 
 * https://github.com/mc-fdc-dev
