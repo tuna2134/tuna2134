@@ -21,7 +21,7 @@ My favorite movie is "Suzume no tojimari". 🎞️
 
 ## Organization
 * https://github.com/mc-fdc-dev
-* https://github.com/rext-dev
+* https://github.com/voicevox-client
 
 ## Status
 ![tuna GitHub stats](https://github-readme-stats.vercel.app/api?username=tuna2134&show_icons=true&theme=radical)
