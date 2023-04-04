@@ -9,7 +9,7 @@ I can do python and typescript.✨
 
 I love Shikimori and Chisato.❤️
 
-My favorite animation is "Lycoris Recoil" and "Shikimori's Not Just a Cutie".📺
+My favorite animation is "Bocchi the rock", "Lycoris Recoil" and "Shikimori's Not Just a Cutie".📺
 
 My favorite movie is "Suzume no tojimari". 🎞️
 
