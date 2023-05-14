@@ -1,5 +1,5 @@
 # tuna2134
-If you looking my acrhive repo, please move to [here](https://github.com/tuna2134-archive)
+If you looking my archive repo, please move to [here](https://github.com/tuna2134-archive)
 
 ## Introduce
 Hi i'm tuna2134 and i am student.📚
