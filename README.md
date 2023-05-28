@@ -15,7 +15,7 @@ My favorite animation is "Bocchi the rock", "Lycoris Recoil" and "Shikimori's No
 My favorite movie is "Suzume no tojimari". 🎞️
 
 ## My work
-- [webhook-and-embed](https://pages.tuna2134.jp/webhook-and-embed/)
+- [webhook-and-embed](https://tuna2134.dev/webhook-and-embed/)
 - [My Page](https://tuna2134.jp/)
 - [ShortenURL](https://shor.f5.si/92q460)
 - [Other](https://works.tuna2134.jp/code)
