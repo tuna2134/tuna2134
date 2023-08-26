@@ -10,7 +10,7 @@ I can do python and typescript.✨
 
 I love Shikimori and Chisato.❤️
 
-My favorite animation is "Bocchi the rock", "Lycoris Recoil", "Shikimori's Not Just a Cutie", "Oshinoko" and "kaguya-sama". 📺
+My favorite animation is "Bocchi the rock", "Lycoris Recoil", "Shikimori's Not Just a Cutie", "Oshinoko", "kaguya-sama" and "mushoku-tensei". 📺
 
 My favorite movie is "Suzume no tojimari". 🎞️
 
@@ -23,6 +23,8 @@ My favorite movie is "Suzume no tojimari". 🎞️
 ## Organization
 * https://github.com/mc-fdc-dev
 * https://github.com/voicevox-client
+* https://github.com/neodyland
+* https://github.com/KuronekoServer
 
 ## Status
 ![tuna GitHub stats](https://github-readme-stats.vercel.app/api?username=tuna2134&show_icons=true&theme=radical)
