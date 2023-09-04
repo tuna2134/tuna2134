@@ -8,7 +8,7 @@ I'm learning rust. ✏
 
 I can do python and typescript.✨
 
-I love Shikimori and Chisato.❤️
+I love Shikimori, bocchi, Chisato and roxy.❤️
 
 My favorite animation is "Bocchi the rock", "Lycoris Recoil", "Shikimori's Not Just a Cutie", "Oshinoko", "kaguya-sama" and "mushoku-tensei". 📺
 
