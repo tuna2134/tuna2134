@@ -32,4 +32,4 @@ My favorite movie is "Suzume no tojimari". 🎞️
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuna2134&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
-Please send mail to `me[at]tuna2134.dev`. (Please repleace `[at]` to `@`.)
+Please send mail to `me[at]tuna2134.dev`. (Please replace `[at]` to `@`.)
