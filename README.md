@@ -8,7 +8,7 @@ I can do python, rust and typescript.✨
 
 I love Shikimori, bocchi, Chisato and roxy.❤️
 
-My favorite animation is "Bocchi the rock", "Lycoris Recoil", "Shikimori's Not Just a Cutie", "Oshinoko", "kaguya-sama" and "mushoku-tensei". 📺
+My favorite animation is "Bocchi the rock", "Lycoris Recoil", "Shikimori's Not Just a Cutie", "Oshinoko", "kaguya-sama" "majyo-no-tabitabi" and "mushoku-tensei". 📺
 
 My favorite movie is "Suzume no tojimari". 🎞️
 
