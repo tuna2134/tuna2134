@@ -4,7 +4,7 @@ If you looking my archive repo, please move to [here](https://github.com/tuna213
 ## Introduce
 Hi i'm tuna2134 and i am student.📚
 
-I love Shikimori, bocchi, Chisato and roxy.❤️
+I love Shikimori, Hitori, Chisato, Komari and Rozxy.❤️
 
 My favorite animation is "Bocchi the rock", "Lycoris Recoil", "Shikimori's Not Just a Cutie", "Oshinoko", "kaguya-sama" "majyo-no-tabitabi", "mushoku-tensei" and "hikikomari". 📺
 
