@@ -29,6 +29,7 @@ My favorite movie is "Suzume no tojimari". 🎞️
 * https://github.com/voicevox-client
 * https://github.com/neodyland
 * https://github.com/KuronekoServer
+* コマリン親衛隊
 
 ## Status
 ![tuna GitHub stats](https://github-readme-stats.vercel.app/api?username=tuna2134&show_icons=true&theme=radical)
