@@ -13,8 +13,8 @@ My favorite movie is "Suzume no tojimari". 🎞️
 ## Skill
 | language   | years   |
 | :--------- | :------ |
-| Python     | 3 years |
-| TypeScript | 2 years |
+| Python     | 4 years |
+| TypeScript | 3 years |
 | Rust       | 2 years |
 | c++        | 2 years |
 
