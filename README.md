@@ -38,3 +38,6 @@ My favorite movie is "Suzume no tojimari". 🎞️
 
 ## Contact
 Please send mail to `contact⭐️tuna2134.dev`. (Please replace `⭐️` to `@`.)
+
+## Brandcolor
+- `Dark` - `#201722`
