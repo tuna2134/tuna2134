@@ -1,4 +1,6 @@
 # tuna2134
+![tune2134](https://komarev.com/ghpvc/?username=tuna2134)
+
 If you looking my archive repo, please move to [here](https://github.com/tuna2134-archive)
 
 ## Introduce
