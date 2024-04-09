@@ -19,6 +19,7 @@ My favorite movie is "Suzume no tojimari". 🎞️
 | TypeScript | 3 years |
 | Rust       | 2 years |
 | c++        | 2 years |
+| kubernetes | 2 years |
 
 ## My work
 - [webhook-and-embed](https://tuna2134.dev/webhook-and-embed/)
