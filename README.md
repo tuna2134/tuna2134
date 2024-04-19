@@ -31,11 +31,11 @@ My favorite movie is "Suzume no tojimari". 🎞️
 - [Other](https://works.tuna2134.jp/code)
 
 ## Organization
-* https://github.com/mc-fdc-dev
-* https://github.com/voicevox-client
-* https://github.com/neodyland
-* https://github.com/KuronekoServer
-* コマリン親衛隊
+- https://github.com/mc-fdc-dev
+- https://github.com/voicevox-client
+- https://github.com/neodyland
+- https://github.com/KuronekoServer
+- コマリン親衛隊
 
 ## Status
 ![tuna GitHub stats](https://github-readme-stats.vercel.app/api?username=tuna2134&show_icons=true&theme=radical)
