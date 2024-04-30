@@ -33,7 +33,6 @@ My favorite movie is "Suzume no tojimari". 🎞️
 ## Organization
 - https://github.com/mc-fdc-dev
 - https://github.com/voicevox-client
-- https://github.com/neodyland
 - https://github.com/KuronekoServer
 - コマリン親衛隊
 
