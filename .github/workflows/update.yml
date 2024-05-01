@@ -22,8 +22,6 @@ jobs:
       run: |
         git config user.name github-actions[bot]
         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        if (git diff --shortstat | grep '[0-9]'); then \
-          git add . \
-          git commit -m "Update readme" \
-          git push origin main --force \
-        fi
+        git add .
+        git commit -m "Update readme"
+        git push origin main
