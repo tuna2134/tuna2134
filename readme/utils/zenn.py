@@ -12,9 +12,6 @@ def fetch_articles() -> List[Article]:
     response = requests.get("https://zenn.dev/dms_sub/feed")
     soup = BeautifulSoup(response.text, features="xml")
     return [
-        {
-            "title": item.find("title").get_text(),
-            "uri": item.find("link").get_text()
-        }
+        {"title": item.find("title").get_text(), "uri": item.find("link").get_text()}
         for item in soup.find_all("item")
     ]
