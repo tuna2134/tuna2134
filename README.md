@@ -25,11 +25,11 @@ My favorite movie is "Suzume no tojimari". 🎞️
 
 ## Tech blog
 
-1. [Discord botが100サーバに到達する前にやっておきたいこと](https://zenn.dev/dms_sub/articles/96ba951519e948)
-2. [Rustのpoise, serenity使って、discord bot作るのはあんまりオススメしない話](https://zenn.dev/dms_sub/articles/7f2bb4bbddd388)
-3. [Python消滅しろとか生きろとか正直どうでもいい](https://zenn.dev/dms_sub/articles/649f65229debc1)
-4. [Next.jsだけでreCaptcha V3を実装する方法](https://zenn.dev/neody/articles/b19e8906c67ef4)
-5. [k3sでknativeを動かそうとしたらつまずいた](https://zenn.dev/dms_sub/articles/3d6635addc4699)
+1. [RTのサーバ構成について](https://zenn.dev/neody/articles/219f40b6bd0b48)
+2. [Discord botが100サーバに到達する前にやっておきたいこと](https://zenn.dev/dms_sub/articles/96ba951519e948)
+3. [Rustのpoise, serenity使って、discord bot作るのはあんまりオススメしない話](https://zenn.dev/dms_sub/articles/7f2bb4bbddd388)
+4. [Python消滅しろとか生きろとか正直どうでもいい](https://zenn.dev/dms_sub/articles/649f65229debc1)
+5. [Next.jsだけでreCaptcha V3を実装する方法](https://zenn.dev/neody/articles/b19e8906c67ef4)
 
 ## My work
 - [webhook-and-embed](https://tuna2134.dev/webhook-and-embed/)
@@ -55,4 +55,4 @@ Please send mail to `contact⭐️tuna2134.dev`. (Please replace `⭐️` to `@`
 ## Brandcolor
 - `Dark` - `#201722`
 
-*Last update: 2024/05/01 15:00:43.765886*
+*Last update: 2024/05/01 16:00:56.781960*
