@@ -24,27 +24,9 @@ My favorite movie is "Suzume no tojimari". 🎞️
 | kubernetes | 2 years |
 
 ## Tech blog
-
-1. Discord botが100サーバに到達する前にやっておきたいこと
-2. Rustのpoise, serenity使って、discord bot作るのはあんまりオススメしない話
-3. Python消滅しろとか生きろとか正直どうでもいい
-4. Next.jsだけでreCaptcha V3を実装する方法
-5. k3sでknativeを動かそうとしたらつまずいた
-6. サイトを書き直した
-7. discord.pyでのui系のあれこれ
-8. gVisorをdockerで実際に使ってみた
-9. 人工知能の危険性について個人的に考えてみた。
-10. glow botの技術的な話
-11. ConoHaでArchlinuxのVM建てた時に詰んだ際の解決策
-12. スパゲッティコードはやめようぜ
-13. ライブラリー選定で僕が大事にしていること
-14. 新しいライブラリーを作った！
-15. livepatchとは
-16. kubernetes使ってみた！
-17. Python3.11では
-18. discord.py(最新)でスクリーンショットを撮ってくれるbotを作る
-19. nextcordでスクリーンショットを撮ってくれるbotを作る
-20. 学校の検温を自動的に入力してみた話
+{% for article in articles %}
+{{ loop.index0 + 1 }}. {{ article.title }}
+{%- endfor %}
 
 ## My work
 - [webhook-and-embed](https://tuna2134.dev/webhook-and-embed/)
