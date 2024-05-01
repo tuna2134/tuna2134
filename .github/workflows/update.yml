@@ -1,0 +1,6 @@
+name: Update README file
+
+on:
+  push:
+    branches: [ main ]
+

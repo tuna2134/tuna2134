@@ -12,7 +12,7 @@ template = env.get_template("README.md")
 def update_readme() -> None:
     articles = fetch_articles()
     with open("README.md", "w") as f:
-        f.write(template.render(articles=articles))
+        f.write(template.render(articles=articles[:5]))
 
 
 if __name__ == "__main__":
