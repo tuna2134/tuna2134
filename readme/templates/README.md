@@ -52,4 +52,4 @@ Please send mail to `contact⭐️tuna2134.dev`. (Please replace `⭐️` to `@`
 ## Brandcolor
 - `Dark` - `#201722`
 
-*Last update{{ last_updated }}*
+*Last update: {{ last_updated }}*
