@@ -25,7 +25,7 @@ My favorite movie is "Suzume no tojimari". 🎞️
 
 ## Tech blog
 {% for article in articles %}
-{{ loop.index0 + 1 }}. [{{ article.title }}]({{ articles.url }})
+{{ loop.index0 + 1 }}. [{{ article.title }}]({{ article.uri }})
 {%- endfor %}
 
 ## My work
