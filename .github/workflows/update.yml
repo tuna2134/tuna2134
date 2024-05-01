@@ -4,3 +4,24 @@ on:
   push:
     branches: [ main ]
 
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+    - use: actions/checkout@v4
+    - use: actions/setup-python@v5
+      with:
+        python-version: 3.12
+    - name: Install requirements
+      run: pip install -r requirements.txt
+    - name: Update readme
+      run: python3 -m readme
+    - name: Commit and push to repository
+      run: |
+        git config user.name github-actions[bot]
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add .
+        git commit -m "Update readme"
+        git push origin main --force
