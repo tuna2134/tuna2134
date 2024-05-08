@@ -35,6 +35,7 @@ My favorite movie is "Suzume no tojimari". 🎞️
 - [webhook-and-embed](https://tuna2134.dev/webhook-and-embed/)
 - [My Page](https://tuna2134.jp/)
 - [Glow-bot](https://glow-bot.com)
+- [Musicy](https://musicy.neody.land)
 - [ShortenURL](https://shor.f5.si/e83249)
 - [Other](https://works.tuna2134.jp/code)
 
@@ -55,4 +56,4 @@ Please send mail to `contact⭐️tuna2134.dev`. (Please replace `⭐️` to `@`
 ## Brandcolor
 - `Dark` - `#201722`
 
-*Last update: 2024/05/08 23:00:53.195301*
+*Last update: 2024/05/08 23:55:08.678586*
