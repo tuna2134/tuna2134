@@ -25,11 +25,11 @@ My favorite movie is "Suzume no tojimari". 🎞️
 
 ## Tech blog
 
-1. [RTのサーバ構成について](https://zenn.dev/neody/articles/219f40b6bd0b48)
-2. [Discord botが100サーバに到達する前にやっておきたいこと](https://zenn.dev/dms_sub/articles/96ba951519e948)
-3. [Rustのpoise, serenity使って、discord bot作るのはあんまりオススメしない話](https://zenn.dev/dms_sub/articles/7f2bb4bbddd388)
-4. [Python消滅しろとか生きろとか正直どうでもいい](https://zenn.dev/dms_sub/articles/649f65229debc1)
-5. [Next.jsだけでreCaptcha V3を実装する方法](https://zenn.dev/neody/articles/b19e8906c67ef4)
+1. [RTのメモリー消費を抑えた話](https://zenn.dev/neody/articles/ff0cb93748471e)
+2. [RTのサーバ構成について](https://zenn.dev/neody/articles/219f40b6bd0b48)
+3. [Discord botが100サーバに到達する前にやっておきたいこと](https://zenn.dev/dms_sub/articles/96ba951519e948)
+4. [Rustのpoise, serenity使って、discord bot作るのはあんまりオススメしない話](https://zenn.dev/dms_sub/articles/7f2bb4bbddd388)
+5. [Python消滅しろとか生きろとか正直どうでもいい](https://zenn.dev/dms_sub/articles/649f65229debc1)
 
 ## My work
 - [webhook-and-embed](https://tuna2134.dev/webhook-and-embed/)
@@ -56,4 +56,4 @@ Please send mail to `contact⭐️tuna2134.dev`. (Please replace `⭐️` to `@`
 ## Brandcolor
 - `Dark` - `#201722`
 
-*Last update: 2024/05/09 03:00:48.350621*
+*Last update: 2024/05/09 04:01:03.910460*
