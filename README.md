@@ -25,7 +25,7 @@ My favorite movie is "Suzume no tojimari". 🎞️
 
 ## Tech blog
 
-1. [RTのメモリー消費を抑えた話](https://zenn.dev/neody/articles/ff0cb93748471e)
+1. [Discordで運営しているBotのメモリー消費を抑えた話](https://zenn.dev/neody/articles/ff0cb93748471e)
 2. [RTのサーバ構成について](https://zenn.dev/neody/articles/219f40b6bd0b48)
 3. [Discord botが100サーバに到達する前にやっておきたいこと](https://zenn.dev/dms_sub/articles/96ba951519e948)
 4. [Rustのpoise, serenity使って、discord bot作るのはあんまりオススメしない話](https://zenn.dev/dms_sub/articles/7f2bb4bbddd388)
@@ -56,4 +56,4 @@ Please send mail to `contact⭐️tuna2134.dev`. (Please replace `⭐️` to `@`
 ## Brandcolor
 - `Dark` - `#201722`
 
-*Last update: 2024/05/09 11:00:54.658979*
+*Last update: 2024/05/09 12:00:53.013607*
