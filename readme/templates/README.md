@@ -6,11 +6,11 @@ If you looking my archive repo, please move to [here](https://github.com/tuna213
 ## Introduce
 Hi i'm tuna2134 and i am student.📚
 
-I love Shikimori, Hitori, "ジェス" , Chisato, Komari and Roxy.❤️
+I love "ティナーシャ", Shikimori, Hitori, "ジェス" , Chisato, Komari and Roxy.❤️
 
-My favorite animation is "Bocchi the rock", "Lycoris Recoil", "Shikimori's Not Just a Cutie", "Oshinoko", "kaguya-sama" "majyo-no-tabitabi", "mushoku-tensei" and "hikikomari". 📺
+My favorite animation is "Unnamed memory", "Bocchi the rock", "Lycoris Recoil", "Shikimori's Not Just a Cutie", "Oshinoko", "kaguya-sama" "majyo-no-tabitabi", "mushoku-tensei" and "hikikomari". 📺
 
-My favorite novel is "豚のレバーは加熱しろ", "無職転生" and "ひきこまり吸血姫の悶々".
+My favorite novel is "Unamed memory", "豚のレバーは加熱しろ", "無職転生" and "ひきこまり吸血姫の悶々".
 
 My favorite movie is "Suzume no tojimari". 🎞️
 
