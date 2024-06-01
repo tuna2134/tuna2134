@@ -4,7 +4,7 @@
 If you looking my archive repo, please move to [here](https://github.com/tuna2134-archive)
 
 ## Introduce
-Hi i'm tuna2134 and i am student.📚
+Hi My name is tuna2134 and I am student.📚
 
 I love "ティナーシャ", Shikimori, Hitori, "ジェス" , Chisato, Komari and Roxy.❤️
 
