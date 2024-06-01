@@ -4,7 +4,7 @@
 If you looking my archive repo, please move to [here](https://github.com/tuna2134-archive)
 
 ## Introduce
-Hi i'm tuna2134 and i am student.📚
+Hi My name is tuna2134 and I am student.📚
 
 I love "ティナーシャ", Shikimori, Hitori, "ジェス" , Chisato, Komari and Roxy.❤️
 
@@ -56,4 +56,4 @@ Please send mail to `contact⭐️tuna2134.dev`. (Please replace `⭐️` to `@`
 ## Brandcolor
 - `Dark` - `#201722`
 
-*Last update: 2024/06/01 05:00:56.879419*
+*Last update: 2024/06/01 05:33:28.762166*
