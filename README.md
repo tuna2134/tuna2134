@@ -42,7 +42,7 @@ My favorite movie is "Suzume no tojimari". 🎞️
 ## Organization
 - https://github.com/mc-fdc-dev
 - https://github.com/voicevox-client
-- https://github.com/KuronekoServer
+- https://github.com/neodyland
 - コマリン親衛隊
 
 ## Status
@@ -56,4 +56,4 @@ Please send mail to `contact⭐️tuna2134.dev`. (Please replace `⭐️` to `@`
 ## Brandcolor
 - `Dark` - `#201722`
 
-*Last update: 2024/06/29 14:00:41.563555*
+*Last update: 2024/06/29 14:23:54.637440*
