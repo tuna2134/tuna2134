@@ -12,8 +12,6 @@ My favorite animation is "Unnamed memory", "Bocchi the rock", "Lycoris Recoil", 
 
 My favorite novel is "Unamed memory", "豚のレバーは加熱しろ", "無職転生" and "ひきこまり吸血姫の悶々".
 
-My favorite manga is "かつて魔法少女は悪と敵対していた".
-
 My favorite movie is "Suzume no tojimari". 🎞️
 
 ## Skill
@@ -58,4 +56,4 @@ Please send mail to `contact⭐️tuna2134.dev`. (Please replace `⭐️` to `@`
 ## Brandcolor
 - `Dark` - `#201722`
 
-*Last update: 2024/07/15 23:00:48.053512*
+*Last update: 2024/07/15 23:30:29.590613*
