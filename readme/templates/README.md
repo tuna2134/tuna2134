@@ -10,7 +10,9 @@ I love "ティナーシャ", Shikimori, Hitori, "ジェス" , Chisato, Komari an
 
 My favorite animation is "Unnamed memory", "Bocchi the rock", "Lycoris Recoil", "Shikimori's Not Just a Cutie", "Oshinoko", "kaguya-sama" "majyo-no-tabitabi", "mushoku-tensei" and "hikikomari". 📺
 
-My favorite novel is "Unamed memory", "豚のレバーは加熱しろ", "無職転生" and "ひきこまり吸血姫の悶々".
+My favorite novel is "Unnamed memory", "豚のレバーは加熱しろ", "無職転生" and "ひきこまり吸血姫の悶々".
+
+My favorite manga is "かつて魔法少女は悪と敵対していた".
 
 My favorite movie is "Suzume no tojimari". 🎞️
 
