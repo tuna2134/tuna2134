@@ -1,7 +1,7 @@
 # tuna2134
 ![tune2134](https://komarev.com/ghpvc/?username=tuna2134)
 
-If you looking my archive repo, please move to [here](https://github.com/tuna2134-archive)
+If you looking my archive repo, please move to [here](https://github.com/tuna2134-archive).
 
 ## Introduce
 Hi My name is tuna2134 and I am student.📚
@@ -58,4 +58,4 @@ Please send mail to `contact⭐️tuna2134.dev`. (Please replace `⭐️` to `@`
 ## Brandcolor
 - `Dark` - `#201722`
 
-*Last update: 2024/08/15 22:00:43.057756*
+*Last update: 2024/08/15 22:53:28.363766*
