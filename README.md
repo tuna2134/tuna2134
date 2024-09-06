@@ -27,11 +27,6 @@ My favorite movie is "Suzume no tojimari". 🎞️
 
 ## Tech blog
 
-1. [tailscale + k8sクラスターを構築してみた](https://zenn.dev/neody/articles/ac2c821ec8811a)
-2. [Wireguardとk3s](https://zenn.dev/neody/articles/66f0e4dacdde9e)
-3. [Discordで運営しているBotのメモリー消費を抑えた話](https://zenn.dev/neody/articles/ff0cb93748471e)
-4. [RTのサーバ構成について](https://zenn.dev/neody/articles/219f40b6bd0b48)
-5. [Discord botが100サーバに到達する前にやっておきたいこと](https://zenn.dev/dms_sub/articles/96ba951519e948)
 
 ## My work
 - [webhook-and-embed](https://tuna2134.dev/webhook-and-embed/)
@@ -58,4 +53,4 @@ Please send mail to `contact⭐️tuna2134.dev`. (Please replace `⭐️` to `@`
 ## Brandcolor
 - `Dark` - `#201722`
 
-*Last update: 2024/09/06 00:01:59.719217*
+*Last update: 2024/09/06 01:27:18.377863*
