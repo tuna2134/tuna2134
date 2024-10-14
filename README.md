@@ -27,11 +27,11 @@ My favorite movie is "Suzume no tojimari". 🎞️
 
 ## Tech blog
 
-1. [tailscale + k8sクラスターを構築してみた](https://zenn.dev/neody/articles/ac2c821ec8811a)
-2. [Wireguardとk3s](https://zenn.dev/neody/articles/66f0e4dacdde9e)
-3. [Discordで運営しているBotのメモリー消費を抑えた話](https://zenn.dev/neody/articles/ff0cb93748471e)
-4. [RTのサーバ構成について](https://zenn.dev/neody/articles/219f40b6bd0b48)
-5. [Discord botが100サーバに到達する前にやっておきたいこと](https://zenn.dev/dms_sub/articles/96ba951519e948)
+1. [Matcha-TTSにDifferential Transformerを組み込んだ話](https://zenn.dev/dms_sub/articles/3655a007d28618)
+2. [tailscale + k8sクラスターを構築してみた](https://zenn.dev/neody/articles/ac2c821ec8811a)
+3. [Wireguardとk3s](https://zenn.dev/neody/articles/66f0e4dacdde9e)
+4. [Discordで運営しているBotのメモリー消費を抑えた話](https://zenn.dev/neody/articles/ff0cb93748471e)
+5. [RTのサーバ構成について](https://zenn.dev/neody/articles/219f40b6bd0b48)
 
 ## My work
 - [webhook-and-embed](https://tuna2134.dev/webhook-and-embed/)
@@ -58,4 +58,4 @@ Please send mail to `contact⭐️tuna2134.dev`. (Please replace `⭐️` to `@`
 ## Brandcolor
 - `Dark` - `#201722`
 
-*Last update: 2024/10/14 05:01:10.885697*
+*Last update: 2024/10/14 06:00:47.507311*
