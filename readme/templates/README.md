@@ -50,7 +50,7 @@ My favorite movie is "Suzume no tojimari". 🎞️
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuna2134&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
-Please send mail to `contact⭐️tuna2134.dev`. (Please replace `⭐️` to `@`.)
+Please send mail to `hello⭐️tuna2134.dev`. (Please replace `⭐️` to `@`.)
 
 ## Brandcolor
 - `Dark` - `#201722`
