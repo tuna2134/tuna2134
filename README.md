@@ -6,16 +6,6 @@ If you looking my archive repo, please move to [here](https://github.com/tuna213
 ## Introduce
 Hi My name is tuna2134 and I am student.📚
 
-I love "ティナーシャ", Shikimori, Hitori, "ジェス" , Chisato, Komari and Roxy.❤️
-
-My favorite animation is "Unnamed memory", "Bocchi the rock", "Lycoris Recoil", "Shikimori's Not Just a Cutie", "Oshinoko", "kaguya-sama" "majyo-no-tabitabi", "mushoku-tensei" and "hikikomari". 📺
-
-My favorite novel is "Unnamed memory", "豚のレバーは加熱しろ", "無職転生" and "ひきこまり吸血姫の悶々".
-
-My favorite manga is "かつて魔法少女は悪と敵対していた".
-
-My favorite movie is "Suzume no tojimari". 🎞️
-
 ## Skill
 | language   | years   |
 | :--------- | :------ |
@@ -58,4 +48,4 @@ Please send mail to `hello⭐️tuna2134.dev`. (Please replace `⭐️` to `@`.)
 ## Brandcolor
 - `Dark` - `#201722`
 
-*Last update: 2025/01/30 00:02:03.637256*
+*Last update: 2025/01/30 00:57:38.314867*
