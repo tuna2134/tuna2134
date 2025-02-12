@@ -17,11 +17,11 @@ Hi My name is tuna2134 and I am student.📚
 
 ## Tech blog
 
-1. [Matcha-TTSにDifferential Transformerを組み込んだ話](https://zenn.dev/dms_sub/articles/3655a007d28618)
-2. [tailscale + k8sクラスターを構築してみた](https://zenn.dev/neody/articles/ac2c821ec8811a)
-3. [Wireguardとk3s](https://zenn.dev/neody/articles/66f0e4dacdde9e)
-4. [Discordで運営しているBotのメモリー消費を抑えた話](https://zenn.dev/neody/articles/ff0cb93748471e)
-5. [RTのサーバ構成について](https://zenn.dev/neody/articles/219f40b6bd0b48)
+1. [aws-cliでCloudFlare R2にファイルをアップロードしたら失敗した話](https://zenn.dev/neody/articles/6f2b6e41dd1914)
+2. [Matcha-TTSにDifferential Transformerを組み込んだ話](https://zenn.dev/dms_sub/articles/3655a007d28618)
+3. [tailscale + k8sクラスターを構築してみた](https://zenn.dev/neody/articles/ac2c821ec8811a)
+4. [Wireguardとk3s](https://zenn.dev/neody/articles/66f0e4dacdde9e)
+5. [Discordで運営しているBotのメモリー消費を抑えた話](https://zenn.dev/neody/articles/ff0cb93748471e)
 
 ## My work
 - [webhook-and-embed](https://tuna2134.dev/webhook-and-embed/)
@@ -48,4 +48,4 @@ Please send mail to `hello⭐️tuna2134.dev`. (Please replace `⭐️` to `@`.)
 ## Brandcolor
 - `Dark` - `#201722`
 
-*Last update: 2025/02/12 22:00:47.850188*
+*Last update: 2025/02/12 23:00:47.146174*
