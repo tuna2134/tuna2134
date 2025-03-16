@@ -17,11 +17,11 @@ Hi My name is tuna2134 and I am student.📚
 
 ## Tech blog
 
-1. [BGPやってみた](https://zenn.dev/neody/articles/f501261728997c)
-2. [aws-cliでCloudFlare R2にファイルをアップロードしたら失敗した話](https://zenn.dev/neody/articles/6f2b6e41dd1914)
-3. [Matcha-TTSにDifferential Transformerを組み込んだ話](https://zenn.dev/dms_sub/articles/3655a007d28618)
-4. [tailscale + k8sクラスターを構築してみた](https://zenn.dev/neody/articles/ac2c821ec8811a)
-5. [Wireguardとk3s](https://zenn.dev/neody/articles/66f0e4dacdde9e)
+1. [EtherIP(RFC3378)をRustで実装した話ってよ](https://zenn.dev/dms_sub/articles/cb6ec3ca067c8a)
+2. [BGPやってみた](https://zenn.dev/neody/articles/f501261728997c)
+3. [aws-cliでCloudFlare R2にファイルをアップロードしたら失敗した話](https://zenn.dev/neody/articles/6f2b6e41dd1914)
+4. [Matcha-TTSにDifferential Transformerを組み込んだ話](https://zenn.dev/dms_sub/articles/3655a007d28618)
+5. [tailscale + k8sクラスターを構築してみた](https://zenn.dev/neody/articles/ac2c821ec8811a)
 
 ## My work
 - [webhook-and-embed](https://tuna2134.dev/webhook-and-embed/)
@@ -48,4 +48,4 @@ Please send mail to `hello⭐️tuna2134.dev`. (Please replace `⭐️` to `@`.)
 ## Brandcolor
 - `Dark` - `#201722`
 
-*Last update: 2025/03/16 00:02:24.252023*
+*Last update: 2025/03/16 01:28:08.123743*
