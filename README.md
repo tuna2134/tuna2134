@@ -9,12 +9,11 @@ Hi My name is tuna2134 and I am student.📚
 ## Skill
 | language   | years   |
 | :--------- | :------ |
-| Python     | 5 years |
+| Python     | 4 years |
 | TypeScript | 3 years |
-| Rust       | 3 years |
+| Rust       | 2 years |
 | c++        | 2 years |
-| kubernetes | 3 years |
-| Network    | 2 years |
+| kubernetes | 2 years |
 
 ## Tech blog
 
@@ -49,4 +48,4 @@ Please send mail to `hello⭐️tuna2134.dev`. (Please replace `⭐️` to `@`.)
 ## Brandcolor
 - `Dark` - `#201722`
 
-*Last update: 2025/04/28 06:02:53.922880*
+*Last update: 2025/04/28 06:05:04.997716*
