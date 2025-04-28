@@ -9,11 +9,12 @@ Hi My name is tuna2134 and I am student.📚
 ## Skill
 | language   | years   |
 | :--------- | :------ |
-| Python     | 4 years |
+| Python     | 5 years |
 | TypeScript | 3 years |
-| Rust       | 2 years |
+| Rust       | 3 years |
 | c++        | 2 years |
-| kubernetes | 2 years |
+| kubernetes | 3 years |
+| Network    | 2 years |
 
 ## Tech blog
 
