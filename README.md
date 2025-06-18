@@ -24,6 +24,7 @@ Hi My name is tuna2134 and I am student.📚
 5. [tailscale + k8sクラスターを構築してみた](https://zenn.dev/neody/articles/ac2c821ec8811a)
 
 ## My work
+- [sbv2-api](https://github.com/neodyland/sbv2-api)
 - [webhook-and-embed](https://tuna2134.dev/webhook-and-embed/)
 - [My Page](https://tuna2134.jp/)
 - [Glow-bot](https://glow-bot.com)
