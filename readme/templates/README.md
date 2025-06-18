@@ -7,13 +7,13 @@ If you looking my archive repo, please move to [here](https://github.com/tuna213
 Hi My name is tuna2134 and I am student.📚
 
 ## Skill
-| language   | years   |
-| :--------- | :------ |
-| Python     | 4 years |
-| TypeScript | 3 years |
-| Rust       | 2 years |
-| c++        | 2 years |
-| kubernetes | 2 years |
+- Python
+- TypeScript
+- Kubernetes
+- Rust
+- C++
+- Docker
+- Ubuntu
 
 ## Tech blog
 {% for article in articles %}
@@ -21,12 +21,10 @@ Hi My name is tuna2134 and I am student.📚
 {%- endfor %}
 
 ## My work
-- [webhook-and-embed](https://tuna2134.dev/webhook-and-embed/)
+- [sbv2-api](https://github.com/neodyland/sbv2-api)
 - [My Page](https://tuna2134.jp/)
 - [Glow-bot](https://glow-bot.com)
 - [Musicy](https://musicy.neody.land)
-- [ShortenURL](https://shor.f5.si/e83249)
-- [Other](https://works.tuna2134.jp/code)
 
 ## Organization
 - https://github.com/mc-fdc-dev
