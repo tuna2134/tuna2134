@@ -17,11 +17,6 @@ Hi My name is tuna2134 and I am student.📚
 
 ## Tech blog
 
-1. [BGPのlocal prefの設定の重要性](https://zenn.dev/neody/articles/8fe0ed1788cc8b)
-2. [EtherIP(RFC3378)をRustで実装した話ってよ](https://zenn.dev/dms_sub/articles/cb6ec3ca067c8a)
-3. [BGPやってみた](https://zenn.dev/neody/articles/f501261728997c)
-4. [aws-cliでCloudFlare R2にファイルをアップロードしたら失敗した話](https://zenn.dev/neody/articles/6f2b6e41dd1914)
-5. [Matcha-TTSにDifferential Transformerを組み込んだ話](https://zenn.dev/dms_sub/articles/3655a007d28618)
 
 ## My work
 - [sbv2-api](https://github.com/neodyland/sbv2-api)
@@ -46,4 +41,4 @@ Please send mail to `hello⭐️tuna2134.dev`. (Please replace `⭐️` to `@`.)
 ## Brandcolor
 - `Dark` - `#201722`
 
-*Last update: 2025/08/14 22:00:45.287471*
+*Last update: 2025/08/14 23:00:44.418470*
