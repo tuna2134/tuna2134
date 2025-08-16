@@ -14,6 +14,8 @@ Hi My name is tuna2134 and I am student.📚
 - C++
 - Docker
 - Ubuntu
+- BIRD2
+- VyOS
 
 ## Tech blog
 {% for article in articles %}
