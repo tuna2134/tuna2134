@@ -18,6 +18,7 @@ Hi My name is tuna2134 and I am student.📚
 - VyOS
 
 ## Tech blog
+Mainly i wrote about network infrastructure.
 
 1. [MTU値の設定もれによってOSPFがうまく動かなかった話](https://zenn.dev/neody/articles/d6c3a514f7178b)
 2. [BGPのlocal prefの設定の重要性](https://zenn.dev/neody/articles/8fe0ed1788cc8b)
@@ -32,7 +33,6 @@ Hi My name is tuna2134 and I am student.📚
 - [Musicy](https://musicy.neody.land)
 
 ## Organization
-- https://github.com/mc-fdc-dev
 - https://github.com/voicevox-client
 - https://github.com/neodyland
 - コマリン親衛隊
@@ -48,4 +48,4 @@ Please send mail to `hello⭐️tuna2134.dev`. (Please replace `⭐️` to `@`.)
 ## Brandcolor
 - `Dark` - `#201722`
 
-*Last update: 2026/02/15 03:52:15.524126*
+*Last update: 2026/02/15 04:13:17.643642*
