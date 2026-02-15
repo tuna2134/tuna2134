@@ -18,6 +18,7 @@ Hi My name is tuna2134 and I am student.📚
 - VyOS
 
 ## Tech blog
+Mainly i wrote about network infrastructure.
 {% for article in articles %}
 {{ loop.index0 + 1 }}. [{{ article.title }}]({{ article.uri }})
 {%- endfor %}
@@ -29,7 +30,6 @@ Hi My name is tuna2134 and I am student.📚
 - [Musicy](https://musicy.neody.land)
 
 ## Organization
-- https://github.com/mc-fdc-dev
 - https://github.com/voicevox-client
 - https://github.com/neodyland
 - コマリン親衛隊
