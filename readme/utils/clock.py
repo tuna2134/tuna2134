@@ -1,5 +1,5 @@
 import math
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from PIL import Image, ImageDraw, ImageFont
 
 
@@ -7,15 +7,23 @@ def generate_clock_image(dt: datetime, output_path: str = "clock.png") -> str:
     """Generate an analog clock image using Pillow showing the current time.
     
     Args:
-        dt: The datetime to display
+        dt: The datetime to display (will be converted to JST)
         output_path: Path where the clock image will be saved
         
     Returns:
         The output path where the image was saved
     """
-    hour = dt.hour % 12
-    minute = dt.minute
-    second = dt.second
+    # Convert to JST (UTC+9)
+    jst = timezone(timedelta(hours=9))
+    if dt.tzinfo is None:
+        # Assume UTC if no timezone info
+        dt_jst = dt.replace(tzinfo=timezone.utc).astimezone(jst)
+    else:
+        dt_jst = dt.astimezone(jst)
+    
+    hour = dt_jst.hour % 12
+    minute = dt_jst.minute
+    second = dt_jst.second
     
     # Calculate angles (0 degrees = 12 o'clock, clockwise)
     second_angle = (second / 60) * 360
@@ -73,8 +81,8 @@ def generate_clock_image(dt: datetime, output_path: str = "clock.png") -> str:
                   center + dot_radius, center + dot_radius], 
                  fill='#333333')
     
-    # Draw timestamp text
-    timestamp_text = dt.strftime("%Y/%m/%d %H:%M:%S")
+    # Draw timestamp text (JST notation)
+    timestamp_text = dt_jst.strftime("%Y/%m/%d %H:%M:%S JST")
     
     # Try to use a nicer font, fall back to default if not available
     try:
