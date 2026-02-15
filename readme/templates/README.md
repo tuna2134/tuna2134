@@ -45,4 +45,9 @@ Please send mail to `hello⭐️tuna2134.dev`. (Please replace `⭐️` to `@`.)
 ## Brandcolor
 - `Dark` - `#201722`
 
-*Last update: {{ last_updated }}*
+## Last Update
+<div align="center">
+
+{{ clock_svg }}
+
+</div>
