@@ -57,15 +57,15 @@ def generate_clock_image(dt: datetime, output_path: str = "clock.png") -> str:
     
     # Draw hour hand
     hour_x, hour_y = angle_to_coords(hour_angle, hour_length)
-    draw.line([(center, center), (hour_x, hour_y)], fill='#333333', width=12, joint='curve')
+    draw.line([(center, center), (hour_x, hour_y)], fill='#333333', width=12)
     
     # Draw minute hand
     minute_x, minute_y = angle_to_coords(minute_angle, minute_length)
-    draw.line([(center, center), (minute_x, minute_y)], fill='#666666', width=8, joint='curve')
+    draw.line([(center, center), (minute_x, minute_y)], fill='#666666', width=8)
     
     # Draw second hand
     second_x, second_y = angle_to_coords(second_angle, second_length)
-    draw.line([(center, center), (second_x, second_y)], fill='#e74c3c', width=4, joint='curve')
+    draw.line([(center, center), (second_x, second_y)], fill='#e74c3c', width=4)
     
     # Draw center dot
     dot_radius = 12
@@ -79,7 +79,7 @@ def generate_clock_image(dt: datetime, output_path: str = "clock.png") -> str:
     # Try to use a nicer font, fall back to default if not available
     try:
         font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 24)
-    except:
+    except (IOError, OSError):
         font = ImageFont.load_default()
     
     # Get text bounding box for centering
