@@ -1,6 +1,6 @@
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 from .utils.zenn import fetch_articles
-from .utils.clock import generate_clock_svg
+from .utils.clock import generate_clock_image
 from datetime import datetime
 
 
@@ -13,11 +13,11 @@ template = env.get_template("README.md")
 def update_readme() -> None:
     dt = datetime.now()
     articles = fetch_articles()
-    clock_svg = generate_clock_svg(dt)
+    clock_path = generate_clock_image(dt)
     with open("README.md", "w") as f:
         f.write(
             template.render(
-                articles=articles[:5], clock_svg=clock_svg
+                articles=articles[:5], clock_path=clock_path
             )
         )
 

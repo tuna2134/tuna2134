@@ -48,6 +48,6 @@ Please send mail to `hello⭐️tuna2134.dev`. (Please replace `⭐️` to `@`.)
 ## Last Update
 <div align="center">
 
-{{ clock_svg }}
+![Clock]({{ clock_path }})
 
 </div>
