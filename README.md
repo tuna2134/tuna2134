@@ -20,11 +20,11 @@ Hi My name is tuna2134 and I am student.📚
 ## Tech blog
 Mainly i wrote about network infrastructure.
 
-1. [MTU値の設定もれによってOSPFがうまく動かなかった話](https://zenn.dev/neody/articles/d6c3a514f7178b)
-2. [BGPのlocal prefの設定の重要性](https://zenn.dev/neody/articles/8fe0ed1788cc8b)
-3. [EtherIP(RFC3378)をRustで実装した話ってよ](https://zenn.dev/dms_sub/articles/cb6ec3ca067c8a)
-4. [BGPやってみた](https://zenn.dev/neody/articles/f501261728997c)
-5. [aws-cliでCloudFlare R2にファイルをアップロードしたら失敗した話](https://zenn.dev/neody/articles/6f2b6e41dd1914)
+1. [Neody NTPサーバの裏話？](https://zenn.dev/neody/articles/097878e8d32349)
+2. [MTU値の設定もれによってOSPFがうまく動かなかった話](https://zenn.dev/neody/articles/d6c3a514f7178b)
+3. [BGPのlocal prefの設定の重要性](https://zenn.dev/neody/articles/8fe0ed1788cc8b)
+4. [EtherIP(RFC3378)をRustで実装した話ってよ](https://zenn.dev/dms_sub/articles/cb6ec3ca067c8a)
+5. [BGPやってみた](https://zenn.dev/neody/articles/f501261728997c)
 
 ## My work
 - [sbv2-api](https://github.com/neodyland/sbv2-api)
