@@ -5,6 +5,7 @@ If you looking my archive repo, please move to [here](https://github.com/tuna213
 
 ## Introduce
 Hi My name is tuna2134 and I am student.📚
+I am NOC of [AS152873](https://neody.ad.jp/).
 
 ## Skill
 - Python
@@ -16,6 +17,7 @@ Hi My name is tuna2134 and I am student.📚
 - Ubuntu
 - BIRD2
 - VyOS
+- FRRouting
 
 ## Tech blog
 Mainly i wrote about network infrastructure.
