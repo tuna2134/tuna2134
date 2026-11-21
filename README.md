@@ -22,11 +22,11 @@ I am NOC of [AS152873](https://neody.ad.jp/).
 ## Tech blog
 Mainly i wrote about network infrastructure.
 
-1. [DNSで浸透いうな！](https://zenn.dev/neody/articles/b7330cdd6a346c)
-2. [Neody NTPサーバの裏話？](https://zenn.dev/neody/articles/097878e8d32349)
-3. [MTU値の設定もれによってOSPFがうまく動かなかった話](https://zenn.dev/neody/articles/d6c3a514f7178b)
-4. [BGPのlocal prefの設定の重要性](https://zenn.dev/neody/articles/8fe0ed1788cc8b)
-5. [EtherIP(RFC3378)をRustで実装した話ってよ](https://zenn.dev/dms_sub/articles/cb6ec3ca067c8a)
+1. [おうちk8sでグローバルIP](https://zenn.dev/neody/articles/915d907febbeca)
+2. [DNSで浸透いうな！](https://zenn.dev/neody/articles/b7330cdd6a346c)
+3. [Neody NTPサーバの裏話？](https://zenn.dev/neody/articles/097878e8d32349)
+4. [MTU値の設定もれによってOSPFがうまく動かなかった話](https://zenn.dev/neody/articles/d6c3a514f7178b)
+5. [BGPのlocal prefの設定の重要性](https://zenn.dev/neody/articles/8fe0ed1788cc8b)
 
 ## My work
 - [sbv2-api](https://github.com/neodyland/sbv2-api)
